@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link href="/"><AiOutlineHome/></Link>
       </p>
       <p className="nav-link">
-        <a className="email" href="mailto:jimbobkimberly@gmail.com">Contact Us</a>
+        <a className="email" href="/contact-us">Contact Us</a>
       </p>
 
       <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
