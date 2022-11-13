@@ -13,8 +13,15 @@ const HeroBanner = ({ heroBanner }) => {
         
 
         <div>
-        <img src={urlFor(heroBanner.image)} alt="itch master logo" className="hero-banner-image" />
+        <br/>
+        <br/>
         <p className="beats-solo2">Powered by a drug-free herbal extract</p>
+        <br/>
+        <br/>
+        <h6 className="beats-solo">Kimberly Products are developed to relieve the itch and odor <br/>associated with fungal infections, as well as underarm and foot odor.</h6>
+        <br/>
+        <br/>
+        <p className="beats-solo2">ONE HERB, THAT'S ALL!!!</p>
           <Link href={`/product/itch-master`}>
             <button type="button">{heroBanner.buttonText}</button>
           </Link>
