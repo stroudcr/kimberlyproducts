@@ -50,6 +50,7 @@ const ProductDetails = ({ product, products }) => {
             </p>
           </div>
           <h4>Details: </h4>
+          <h4 className="reviews">FREE SHIPPING</h4>
           <p>{details}</p>
           <p className="price">${price}</p>
           <div className="quantity">
