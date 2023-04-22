@@ -34,16 +34,14 @@ ingredients if any one worked?)</h3>
 • order@kimberlyproducts.com or
         <br/>
 • Kimberlyproducts.com</h3>
+
         </div>
         <div className="right">
           {/* <p>{smallText}</p>
           <p>{desc}</p> */}
-          <Link href={`product/itch-master`}>
-            <button type="button">{buttonText}</button>
-          </Link>
           {/* <p><small>{saleTime}</small></p> */}
         </div>
-
+          
        
       </div>
     </div>

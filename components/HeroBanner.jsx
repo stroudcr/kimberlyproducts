@@ -15,17 +15,15 @@ const HeroBanner = ({ heroBanner }) => {
         <div>
         <br/>
         <br/>
-        <p className="beats-solo2"><big>100% Drug Free - Herbal Extract</big></p>
+        <p className="beats-solo2"><big><strong>100% Drug Free - Herbal Extract</strong></big></p>
         <br/>
         <p className="beats-solo2"><big>ONE HERB - That’s All</big></p>
-        <p className="beats-solo2"><big>THAT WORKS!</big></p>
+        <p className="beats-solo2"><big><strong>THAT WORKS!</strong></big></p>
+        <img src={urlFor(heroBanner.image)} alt="soothing spray" className="hero-banner-image" />
+        <h6 className="beats-solo">Developed to relieve the itch and odor associated with fungal infections, <br/> as well as underarm and foot odor</h6>
         <br/>
-        <h6 className="beats-solo">Kimberly Products are developed to relieve the itch and odor <br/>associated with fungal infections, as well as underarm and foot odor.</h6>
         <br/>
-        <br/>
-        <p className="beats-solo2">Developed to relieve the itch and odor associated with fungal infections,
-as well as underarm and foot odor</p>
-          <Link href={`/product/itch-master`}>
+          <Link href={`/product/soothing-body-spray`}>
             <button type="button">{heroBanner.buttonText}</button>
           </Link>
           <div className="desc">

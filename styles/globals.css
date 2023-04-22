@@ -138,7 +138,7 @@ width: 100%;
   background-color: #d9d9d9;
   border-radius: 15px;
   position: relative;
-  height: 500px;
+  height: 700px;
   line-height: 0.9; 
   width: 100%;
 
@@ -153,7 +153,7 @@ width: 100%;
 .hero-banner-container button{
    border-radius: 15px;
   padding: 10px 16px;
-  background-color: #52749d;
+  background-color: #5b9bd5;
   color: white;
   border: none;
   margin-top: 40px;
@@ -179,7 +179,7 @@ width: 100%;
 .hero-banner-image{
   position: static;
   margin: 30px 40px;
-  height: 250px;
+  height: 180px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -225,14 +225,14 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #52749d;
+  background-color: #5b9bd5;
   border-radius: 15px;
   position: relative;
   height: 400px;
   line-height: 1; 
   color: white;
   width: 100%;
-  margin-top: 120px;
+  margin-top: 100px;
 }
 .banner-desc{
   display: flex ;
@@ -634,14 +634,14 @@ margin-top: 160px;
 
 @media screen and (max-width:800px) {
   .hero-banner-container{
-    height: 650px;
+    height: 750px;
   }
-  /* .hero-banner-image{
+  .hero-banner-image{
     width: 77%;
     height: 62%;
     top: -2%;
     right: -6%;
-  } */
+  }
   .footer-banner-container{
     height: 560px;
     margin-top: 80px;

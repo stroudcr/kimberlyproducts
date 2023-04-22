@@ -8,7 +8,7 @@ const Footer = () => {
       <p>This product is not suitable to diagnose, treat, cure or prevent any disease.</p>
       <p>Copyright © 2023 Kimberly Products. All rights reserved.</p>
       <p className="icons">
-      <a className="email" href="mailto:jimbobkimberly@gmail.com"><AiOutlineMail /></a>
+      <a className="email" href="mailto:kimberlyproductsllc@gmail.com"><AiOutlineMail /></a>
       <a href="https://www.facebook.com"><AiFillFacebook /></a>
       </p>
     </div>
