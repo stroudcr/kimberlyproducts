@@ -27,13 +27,13 @@ ingredients if any one worked?)</h3>
         <h3>Contains: Water, denatured alcohol, herbal extract, citric acid</h3>
         <br/>
         <br/>
-        <h3>Order at:
+        <h4>Order at:
         <br/>
 • (229) 454-0079
         <br/>
-• order@kimberlyproducts.com or
+• order@kimberlyproducts.com
         <br/>
-• Kimberlyproducts.com</h3>
+• Kimberlyproducts.com</h4>
 
         </div>
         <div className="right">
