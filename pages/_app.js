@@ -1,5 +1,6 @@
 import React from 'react';
 import { Toaster } from 'react-hot-toast';
+import { Analytics } from '@vercel/analytics';
 
 import { Layout } from '../components';
 import '../styles/globals.css';
@@ -12,6 +13,7 @@ function MyApp({ Component, pageProps }) {
         <Toaster />
         <Component {...pageProps} />
       </Layout>
+      <Analytics />
       </StateContext>
   )
 }
