@@ -31,7 +31,7 @@ ingredients if any one worked?)</h3>
         <br/>
 • (229) 454-0079
         <br/>
-• order@kimberlyproducts.com
+• kimberlyproductsllc@gmail.com
         <br/>
 • Kimberlyproducts.com</h4>
 
